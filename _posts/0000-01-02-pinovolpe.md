@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Modifico anche la seconda slide!"
 ---
-Replace line 5 with something new
-Use the left arrow to go back!
+Freccia a sinistra per tornare indietro!
